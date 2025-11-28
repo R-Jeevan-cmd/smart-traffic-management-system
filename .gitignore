@@ -1,0 +1,9 @@
+# Ignore big model weights
+*.weights
+
+# Python cache & env
+__pycache__/
+venv/
+
+# macOS junk
+.DS_Store
